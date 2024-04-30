@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T12:35:36.856Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bj7h5tbC6mUgTK3LK92a" version="24.3.1" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2024-04-30T12:35:50.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4Deg8SdC3rzdpo-H0LRP" version="24.3.1" type="github" pages="33">
   <diagram id="5OeEsbHkJJ296qzPiqTJ" name="Use case Tổng quát">
     <mxGraphModel dx="954" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3978,7 +3978,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0iNO3PGQc2Kf0aEMB9lk" name="Trang-33">
+  <diagram id="0iNO3PGQc2Kf0aEMB9lk" name="Activity Kiểm tra hoá đơn bán hàng">
     <mxGraphModel dx="954" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
