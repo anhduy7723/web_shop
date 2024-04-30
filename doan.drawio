@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T12:09:48.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-aNsldsQyNB_QgMJW7mQ" version="24.3.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-04-30T12:09:57.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6GjJx_g9h-CfscEICI1V" version="24.3.1" type="github" pages="23">
   <diagram id="5OeEsbHkJJ296qzPiqTJ" name="Use case Tổng quát">
     <mxGraphModel dx="954" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2417,7 +2417,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="G-iqB4Luq_wx-gh1ALNv" name="Trang-23">
+  <diagram id="G-iqB4Luq_wx-gh1ALNv" name="Seq Thống kê đơn hàng">
     <mxGraphModel dx="954" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
