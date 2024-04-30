@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T12:01:56.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EMfgVzw95-TKPzv7NiEK" version="24.3.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-04-30T12:02:20.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F4Guwgz4BH0Ydpwo7PIV" version="24.3.1" type="github" pages="21">
   <diagram id="5OeEsbHkJJ296qzPiqTJ" name="Use case Tổng quát">
     <mxGraphModel dx="954" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2164,7 +2164,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0og76297Qdhx_zooGuHD" name="Trang-21">
+  <diagram id="0og76297Qdhx_zooGuHD" name="Seq tạo phiếu thu">
     <mxGraphModel dx="954" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
